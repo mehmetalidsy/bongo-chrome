@@ -1,0 +1,14 @@
+#bongo-cat-container {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 150px;
+    z-index: 999999;
+    pointer-events: none;
+    opacity: 0.8;
+}
+
+#bongo-img {
+    width: 100%;
+    height: auto;
+}
